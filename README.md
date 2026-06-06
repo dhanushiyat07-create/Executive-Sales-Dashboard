@@ -27,7 +27,7 @@ This project analyzes **9,994 sales records** across **4 regions** and **3 produ
 
 ## 🎯 Business Objectives
 
-| # | Objective |
+|   | Objective |
 |---|-----------|
 | 1 | Analyze sales performance across **4 regions** |
 | 2 | Identify profitable and underperforming **product categories** |
@@ -51,7 +51,7 @@ This project analyzes **9,994 sales records** across **4 regions** and **3 produ
 
 ## 📊 KPIs Tracked
 
-| # | KPI |
+|   | KPI |
 |---|-----|
 | 1 | ✅ Total Sales |
 | 2 | ✅ Total Profit |
