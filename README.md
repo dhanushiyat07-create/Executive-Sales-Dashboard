@@ -1,7 +1,7 @@
 # Executive-Sales-Dashboard
 Interactive Sales Dashboard created using Microsoft Excel to analyze sales performance, profitability, and business trends.
 
-📌 Project Overview
+📌 <h1>Project Overview</h1>
 
 The Executive Sales Dashboard is an interactive business intelligence solution developed using Microsoft Excel to analyze sales performance and generate actionable business insights.
 
