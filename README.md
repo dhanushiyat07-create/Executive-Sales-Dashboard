@@ -8,7 +8,7 @@ The Executive Sales Dashboard is an interactive business intelligence solution d
 This project transforms raw sales data into meaningful visual reports, enabling stakeholders to monitor key performance indicators (KPIs), identify trends, and support data-driven decision-making.
 
 ---
-🎯 Business Objective
+<h3>🎯 Business Objective</h3>
 
 The primary objectives of this project are:
 
@@ -20,7 +20,7 @@ The primary objectives of this project are:
 
 ---
 
-📂 Dataset Information
+<h3>📂 Dataset Information</h3>
 
 The dataset contains approximately 9,994 sales records with the following attributes:
 
@@ -34,7 +34,7 @@ The dataset contains approximately 9,994 sales records with the following attrib
 
 ---
 
-📊 Key Performance Indicators (KPIs)
+<h3>📊 Key Performance Indicators (KPIs)</h3>
 
 The dashboard tracks:
 
@@ -52,7 +52,7 @@ The dashboard tracks:
 
 ---
 
-📈 Dashboard Features
+<h3>📈 Dashboard Features</h3>
 
 Sales Performance Analysis
 
@@ -75,7 +75,7 @@ Interactive Reporting
 
 ---
 
-🔍 Key Insights Generated
+<h3>🔍 Key Insights Generated</h3>
 
 - Identified high-performing regions
 - Evaluated category-wise profitability
@@ -85,7 +85,7 @@ Interactive Reporting
 
 ---
 
-🛠️ Tools & Technologies Used
+<h3>🛠️ Tools & Technologies Used</h3>
 
 - Microsoft Excel
 - Pivot Tables
@@ -96,7 +96,7 @@ Interactive Reporting
 
 ---
 
-💡 Skills Demonstrated
+<h3>💡 Skills Demonstrated</h3>
 
 - Data Cleaning
 - Data Analysis
@@ -108,7 +108,8 @@ Interactive Reporting
 
 ---
 
-📷 Dashboard Preview
+<h3>📷 Dashboard Preview</h3>
+<a><img width="1920" height="1080" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/f9274a35-c1e0-4bbf-b0be-cdc30d77e8e8" /></a>
 
 
 
